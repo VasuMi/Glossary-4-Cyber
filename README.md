@@ -1,2 +1,2 @@
 # Glossary-4-Cyber
-Terms/words which you come across in you cyber journey. 
+Terms/words which you come across in your cyber journey. 
